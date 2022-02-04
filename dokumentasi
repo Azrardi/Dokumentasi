@@ -1,0 +1,6 @@
+jenis visualisasi dengan matplotlib, diantaranya:
+
+membuat multi line-chart yang dapat digunakan untuk melihat komparasi dari GMV dari berbagai provinsi, dari bulan ke bulan.
+menghasilkan pie chart atau multi bar-chart untuk melihat komposisi GMV per kota.
+untuk melihat distribusi GMV atau quantity, kita bisa gunakan histogram.
+membuat scatterplot yang bisa memperlihatkan relasi antara quantity dan GMV.
